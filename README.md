@@ -2,7 +2,7 @@
 
 My name is Kymani (or Ky for short). My pronouns are he/they.
 
-How to reach me: kymani.baxter@uconn.edu 📫
+How to reach me: baxterk6@mail.sacredheart.edu📫
 
 I recently became a computer science grad student 🤓 with an interest in exploring data science/engineering and scientific computing.
 
